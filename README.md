@@ -1,4 +1,13 @@
-# ¡Hola, soy Angie Diaz!
+<div align="center">
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+soy+Angie+D%C3%ADaz!"
+    alt="Hola, soy Angie Díaz"
+  />
+
+</div>
+
+---
 
 - Estudiante de **Ingeniería de Sistemas**.
 - Me interesa especialmente el **desarrollo Frontend** y el **diseño UX/UI**.
