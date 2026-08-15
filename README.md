@@ -1,6 +1,6 @@
 # ¡Hola, soy Angie Diaz!
 
-🎓 Estudiante de **Ingeniería de sistemas**.
+🎓 Estudiante de **Ingeniería de Sistemas**.
 <br>
 💻 Me interesa especialmente el **desarrollo Frontend** y el **diseño UX/UI**.
 <br>
