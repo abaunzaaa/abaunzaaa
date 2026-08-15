@@ -1,12 +1,9 @@
 # ¡Hola, soy Angie Diaz!
 
-🎓 Estudiante de **Ingeniería de Sistemas**.
-<br>
-💻 Me interesa especialmente el **desarrollo Frontend** y el **diseño UX/UI**.
-<br>
-🎨 Disfruto crear interfaces visuales, intuitivas y fáciles de usar.
-<br>
-🌱 Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, diseño de interfaces y experiencia de usuario.
+- Estudiante de **Ingeniería de Sistemas**.
+- Me interesa especialmente el **desarrollo Frontend** y el **diseño UX/UI**.
+- Disfruto crear interfaces visuales, intuitivas y fáciles de usar.
+- Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, diseño de interfaces y experiencia de usuario.
 
 ---
 
