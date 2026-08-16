@@ -1,22 +1,22 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=700&lines=%C2%A1Hola%2C+soy+Angie+D%C3%ADaz!"
-    alt="Hola, soy Angie Díaz"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Angie+D%C3%ADaz;Frontend+%26+UX%2FUI+Enthusiast+%E2%9C%A8"
+    alt="Hey there! I'm Angie Díaz"
   />
 
 </div>
 
 ---
 
-- Estudiante de **Ingeniería de Sistemas**.
-- Me interesa especialmente el **desarrollo Frontend** y el **diseño UX/UI**.
-- Disfruto crear interfaces visuales, intuitivas y fáciles de usar.
-- Actualmente continúo fortaleciendo mis conocimientos en desarrollo web, diseño de interfaces y experiencia de usuario.
+- **Systems Engineering** student.
+- Especially interested in **Frontend Development** and **UX/UI Design**.
+- I enjoy creating interfaces that are visual, intuitive, and easy to use.
+- Currently strengthening my skills in web development, interface design, and user experience.
 
 ---
 
-## Tecnologías y herramientas
+## Tech Stack & Tools
 
 <p align="center">
 
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <i>✨ Entre código, colores e ideas, quiero crear experiencias que se sientan tan humanas como las personas que las usan. ✨</i>
+  <i>✨ Between code, colors, and ideas, I aim to create digital experiences that feel as human as the people who use them. ✨</i>
 </p>
