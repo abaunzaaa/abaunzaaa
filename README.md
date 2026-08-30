@@ -61,9 +61,3 @@
 <img src="https://cdn.simpleicons.org/miro/050038" width="48" height="48" alt="Miro" title="Miro"/>
 
 </p>
-
----
-
-<p align="center">
-  <i>✨ Between code, colors, and ideas, I aim to create digital experiences that feel as human as the people who use them. ✨</i>
-</p>
